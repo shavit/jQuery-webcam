@@ -71,3 +71,17 @@ a{
 .post{
   padding-bottom: 2em;
 }
+
+.actions{
+  padding: 0.4em 0;
+}
+.actions button{
+  background: #999;
+  background: #5aba59;
+  background: #4d85d1;
+  border: 2px solid #4d85d1;
+  color: #fff;
+  font-size: 90%;
+  margin: 0 0.1em;
+  padding: 0.4em 1.2em;
+}
