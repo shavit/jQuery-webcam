@@ -3,9 +3,9 @@ $(document).ready(function(){
   function loadWebCams(){
     $("div[data-webcam]").webcam({
       append: false,
-      width: 324,
-      height: 240,
-      mode: "save",
+      width: 640,
+      height: 480,
+      mode: "callback",
       swffile: "../../jscam.swf",
       quality: 60,
 
