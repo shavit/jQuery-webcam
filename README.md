@@ -1,6 +1,8 @@
 jQuery Webcam Plugin
 ====================
 
+[![Bower](https://img.shields.io/bower/v/bootstrap.svg)]()
+
 Description
 -----------
 A small wrapper library to be able to communicate with a Flash webcam via JavaScript.
